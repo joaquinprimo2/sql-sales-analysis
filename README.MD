@@ -2,6 +2,7 @@
 
 ## Objective
 Analizar datos de ventas por país y categoría para entender el rendimiento global del negocio.
+This project includes SQL queries to analyze sales performance and customer behavior.
 
 ## Dataset
 
